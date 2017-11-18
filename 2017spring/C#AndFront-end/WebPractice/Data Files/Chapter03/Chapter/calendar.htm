@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+   <!--
+      JavaScript 6th Edition
+      Chapter 3
+      Chapter case
+
+      Tipton Turbines
+      Calendar web page
+      Author: 
+      Date:   
+
+      Filename: calendar.htm
+   -->
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width,initial-scale=1.0">
+   <title>Tipton Turbines - Calendar</title>
+   <link rel="stylesheet" media="screen and (max-device-width: 999px)" href="tthand.css" />
+   <link rel="stylesheet" media="screen and (min-device-width: 1000px)" href="turbines.css" />
+   <!--[if lt IE 9]>
+      <link rel="stylesheet" href="turbines.css" />
+   <![endif]-->
+   <link href="http://fonts.googleapis.com/css?family=Maven+Pro:400,700,900" rel="stylesheet" type="text/css">
+   <script src="modernizr.custom.05819.js"></script>
+</head>
+
+<body>
+   <div id="container">
+      <header>
+         <h1>
+            <img src="images/ttlogo.png" alt="Tipton Turbines" width="182" height="93" title="" />
+         </h1>
+      </header>
+      <nav>
+         <ul>
+            <li><a href="#">Tickets</a></li>
+            <li><a href="#">Calendar</a></li>
+            <li><a href="#">Players</a></li>
+            <li><a href="#">News</a></li>
+            <li><a href="#">Community</a></li>
+         </ul>
+      </nav>
+
+       <div class="month">
+           <ul>
+               <li class="prev">&#10094;</li>
+               <li class="next">&#10095;</li>
+               <li>
+                   October<br>
+                   <span style="font-size:18px">2016</span>
+               </li>
+           </ul>
+       </div>
+
+       <ul class="weekdays">
+           <li>Mo</li>
+           <li>Tu</li>
+           <li>We</li>
+           <li>Th</li>
+           <li>Fr</li>
+           <li>Sa</li>
+           <li>Su</li>
+       </ul>
+
+       <ul class="days">
+           <li>1</li>
+           <li>2</li>
+           <li>3</li>
+           <li>4</li>
+           <li>5</li>
+           <li>6</li>
+           <li>7</li>
+           <li>8</li>
+           <li>9</li>
+           <li><span class="active">10</span></li>
+           <li>11</li>
+           ...etc
+       </ul>
+
+      <footer>
+         <p>Tipton Turbines Baseball &bull; Tipton, Iowa</p>
+      </footer>
+   </div>
+</body>
+</html>

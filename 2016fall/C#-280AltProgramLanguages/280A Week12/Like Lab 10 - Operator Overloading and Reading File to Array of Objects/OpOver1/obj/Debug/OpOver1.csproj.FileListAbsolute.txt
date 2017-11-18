@@ -1,0 +1,12 @@
+c:\cps280projects\OpOver1\bin\Debug\OpOver1.exe.config
+c:\CPS280Projects\OpOver1\bin\Debug\OpOver1.exe
+c:\CPS280Projects\OpOver1\bin\Debug\OpOver1.pdb
+c:\CPS280Projects\OpOver1\obj\Debug\OpOver1.exe
+c:\CPS280Projects\OpOver1\obj\Debug\OpOver1.pdb
+c:\CPS280Projects\OpOver1\obj\Debug\OpOver1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\280A Week12\Like Lab 10 - Operator Overloading and Reading File to Array of Objects\OpOver1\bin\Debug\OpOver1.exe.config
+C:\Users\DELL\Desktop\280A Week12\Like Lab 10 - Operator Overloading and Reading File to Array of Objects\OpOver1\obj\Debug\OpOver1.exe
+C:\Users\DELL\Desktop\280A Week12\Like Lab 10 - Operator Overloading and Reading File to Array of Objects\OpOver1\obj\Debug\OpOver1.pdb
+C:\Users\DELL\Desktop\280A Week12\Like Lab 10 - Operator Overloading and Reading File to Array of Objects\OpOver1\bin\Debug\OpOver1.exe
+C:\Users\DELL\Desktop\280A Week12\Like Lab 10 - Operator Overloading and Reading File to Array of Objects\OpOver1\bin\Debug\OpOver1.pdb
+C:\Users\DELL\Desktop\280A Week12\Like Lab 10 - Operator Overloading and Reading File to Array of Objects\OpOver1\obj\Debug\OpOver1.csprojResolveAssemblyReference.cache

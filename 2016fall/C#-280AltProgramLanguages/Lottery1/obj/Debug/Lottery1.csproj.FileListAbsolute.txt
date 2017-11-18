@@ -1,0 +1,12 @@
+c:\cps280projects\Lottery1\bin\Debug\Lottery1.exe.config
+c:\cps280projects\Lottery1\bin\Debug\Lottery1.exe
+c:\cps280projects\Lottery1\bin\Debug\Lottery1.pdb
+c:\cps280projects\Lottery1\obj\Debug\Lottery1.csprojResolveAssemblyReference.cache
+c:\cps280projects\Lottery1\obj\Debug\Lottery1.exe
+c:\cps280projects\Lottery1\obj\Debug\Lottery1.pdb
+C:\Users\DELL\Desktop\Lottery1\bin\Debug\Lottery1.exe.config
+C:\Users\DELL\Desktop\Lottery1\obj\Debug\Lottery1.exe
+C:\Users\DELL\Desktop\Lottery1\obj\Debug\Lottery1.pdb
+C:\Users\DELL\Desktop\Lottery1\bin\Debug\Lottery1.exe
+C:\Users\DELL\Desktop\Lottery1\bin\Debug\Lottery1.pdb
+C:\Users\DELL\Desktop\Lottery1\obj\Debug\Lottery1.csprojResolveAssemblyReference.cache

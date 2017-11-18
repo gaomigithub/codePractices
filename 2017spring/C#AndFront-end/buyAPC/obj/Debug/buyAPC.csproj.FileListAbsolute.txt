@@ -1,0 +1,9 @@
+c:\cps280projects\buyAPC\bin\Debug\buyAPC.exe.config
+c:\cps280projects\buyAPC\bin\Debug\buyAPC.exe
+c:\cps280projects\buyAPC\bin\Debug\buyAPC.pdb
+c:\cps280projects\buyAPC\obj\Debug\buyAPC.csprojResolveAssemblyReference.cache
+c:\cps280projects\buyAPC\obj\Debug\buyAPC.frmPCWarehouse.resources
+c:\cps280projects\buyAPC\obj\Debug\buyAPC.Properties.Resources.resources
+c:\cps280projects\buyAPC\obj\Debug\buyAPC.csproj.GenerateResource.Cache
+c:\cps280projects\buyAPC\obj\Debug\buyAPC.exe
+c:\cps280projects\buyAPC\obj\Debug\buyAPC.pdb

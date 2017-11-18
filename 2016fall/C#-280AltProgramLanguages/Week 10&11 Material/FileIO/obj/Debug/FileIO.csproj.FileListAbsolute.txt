@@ -1,0 +1,17 @@
+c:\cps280projects\FileIO\bin\Debug\FileIO.exe.config
+c:\cps280projects\FileIO\bin\Debug\FileIO.exe
+c:\cps280projects\FileIO\bin\Debug\FileIO.pdb
+c:\cps280projects\FileIO\obj\Debug\FileIO.Properties.Resources.resources
+c:\cps280projects\FileIO\obj\Debug\FileIO.csproj.GenerateResource.Cache
+c:\cps280projects\FileIO\obj\Debug\FileIO.exe
+c:\cps280projects\FileIO\obj\Debug\FileIO.pdb
+c:\cps280projects\FileIO\obj\Debug\FileIO.frmFileIO.resources
+C:\Users\DELL\Desktop\Week 10&11 Material\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\DELL\Desktop\Week 10&11 Material\FileIO\obj\Debug\FileIO.exe
+C:\Users\DELL\Desktop\Week 10&11 Material\FileIO\obj\Debug\FileIO.pdb
+C:\Users\DELL\Desktop\Week 10&11 Material\FileIO\bin\Debug\FileIO.exe
+C:\Users\DELL\Desktop\Week 10&11 Material\FileIO\bin\Debug\FileIO.pdb
+C:\Users\DELL\Desktop\Week 10&11 Material\FileIO\obj\Debug\FileIO.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Week 10&11 Material\FileIO\obj\Debug\FileIO.frmFileIO.resources
+C:\Users\DELL\Desktop\Week 10&11 Material\FileIO\obj\Debug\FileIO.Properties.Resources.resources
+C:\Users\DELL\Desktop\Week 10&11 Material\FileIO\obj\Debug\FileIO.csproj.GenerateResource.Cache

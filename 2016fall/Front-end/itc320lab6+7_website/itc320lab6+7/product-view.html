@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Products</title>
+    <link type="text/css" rel="stylesheet" href="css/mystyles.css" />
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script type="text/javascript" src="scripts/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="scripts/function.js"></script>
+    <style>
+        ul.a {
+            list-style-type: circle;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="header" class="wrap">
+        <div id="logo"><img src="images/logo.jpg" /></div>
+        <div class="navbar">
+            <ul class="clearfix">
+                <li><a href="homepage.html">Home</a></li>
+                <li class="current"><a href="#">Products</a></li>
+                <li><a href="Calendar.html">Calendar</a></li>
+                <li><a href="Cart.html">Cart</a></li>
+                <li><a href="login.html">Log in</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <section>
+
+        <div id="childNav">
+            <div class="wrap">
+                <ul class="clearfix"></ul>
+            </div>
+        </div>
+
+
+
+        <div id="main" class="wrap">
+            <div id="product" class="main">
+                <h1>Audio-Technica ATH-EQ300M-SV Sliver Headphone</h1>
+
+                <div class="infos">
+
+                    <div class="thumb">
+                        <p id="gallery">
+                            <img src="images/product/0_big.jpg" alt="Image Gallery area" id="image" />
+                        </p>
+                        <ul id="image_list">
+                            <li><a href="images/product/0_big.jpg" title="1">1</a></li>
+                            <li><a href="images/product/0_2_big.jpg" title="2">2</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="buy">
+                        Cost：<span class="price">$15.00</span><br />
+                        Stock：In Stock.
+                        <div class="button">
+                            <input type="button" name="button" value="" onclick="location.href = 'Cart.html'" />
+                            <!-- <a href="shopping.html">Add to cart</a> -->
+                        </div>
+                    </div>
+
+                    <div class="clear"></div>
+
+                </div>
+
+                <div class="introduce">
+                    <h2><strong>Details</strong></h2>
+                    <div>
+                        <ul class="text">
+                            <li>Ear-Fit Dynamic Headphones with 28mm Drivers</li>
+                            <li>Driver: 28mm, Frequency Response: 16-24,000Hz, Impedance: 20ohms</li>
+                            <li>Max Output: 500mW, Output SPL: 102dB/mW, Weight: 20g (w/o Cord), Plug: MINI STEREO Gold-plated</li>
+                            <li>Cord-length: 1.2m</li>
+                            <li>1 year Japan warranty</li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div id="footer">
+
+        </div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\cps420Projects\Stocks\bin\Stocks.dll.config
+C:\cps420Projects\Stocks\bin\Stocks.dll
+C:\cps420Projects\Stocks\bin\Stocks.pdb
+C:\cps420Projects\Stocks\obj\Debug\Stocks.csprojResolveAssemblyReference.cache
+C:\cps420Projects\Stocks\obj\Debug\Stocks.dll
+C:\cps420Projects\Stocks\obj\Debug\Stocks.pdb

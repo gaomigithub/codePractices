@@ -1,0 +1,10 @@
+Pink Floyd,Comfortably Numb,r,180
+Led Zeppelin,Stairway to Heaven,r,150
+Nirvana,Smells Like Teen Spirit,r,200
+The Cure,Pictures of You,r,150
+Radiohead,Fake Plastic Trees, 210
+Muse,Madness, r, 200
+Lightning Hopkins,Shaggy Dog,b, 150
+Muddy Waters,Mannish Boy,b,160
+Red Hot Chili Peppers,Scar Tissue,r,220
+Linkin Park,In the End,r,200

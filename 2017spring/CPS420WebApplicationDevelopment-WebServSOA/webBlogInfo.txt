@@ -1,0 +1,12 @@
+网站部署好了
+revive 2017/4/18 0:52:04
+https://morning-lake-48222.herokuapp.com/
+revive 2017/4/18 0:52:07
+这是地址
+0:52:30
+revive 2017/4/18 0:52:30
+后台登录地址https://morning-lake-48222.herokuapp.com/admin/
+revive 2017/4/18 0:52:40
+账号root密码gaomi1994
+revive 2017/4/18 0:52:57
+你验收下，然后代码再发给你

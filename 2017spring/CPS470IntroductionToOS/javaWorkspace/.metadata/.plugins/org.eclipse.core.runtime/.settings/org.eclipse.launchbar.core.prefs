@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:GUI,org.eclipse.launchbar.core.descriptorType.default\:Exercise_13,org.eclipse.launchbar.core.descriptorType.default\:Exercise_13 (1),org.eclipse.launchbar.core.descriptorType.default\:oopHwMain,org.eclipse.launchbar.core.descriptorType.default\:oopHwMainOutput,org.eclipse.launchbar.core.descriptorType.default\:mainClass,org.eclipse.launchbar.core.descriptorType.default\:BookIndexer,org.eclipse.launchbar.core.descriptorType.default\:WordCount,org.eclipse.launchbar.core.descriptorType.default\:lab1,org.eclipse.launchbar.core.descriptorType.default\:Multithread,org.eclipse.launchbar.core.descriptorType.default\:Multithread (1),org.eclipse.launchbar.core.descriptorType.default\:Main,org.eclipse.launchbar.core.descriptorType.default\:New_Test_Config,org.eclipse.launchbar.core.descriptorType.default\:Main (1)
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:BookIndexer/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:BookIndexer/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Exercise_13\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Exercise_13\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:GUI/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:GUI/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:WordCount/activeLaunchMode=run

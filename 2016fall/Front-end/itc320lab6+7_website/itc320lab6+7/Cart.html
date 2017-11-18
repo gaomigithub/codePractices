@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Cart</title>
+    <link type="text/css" rel="stylesheet" href="css/mystyles.css" />
+    <script type="text/javascript" src="scripts/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="scripts/function.js"></script>
+</head>
+<body>
+    <div id="header" class="wrap">
+        <div id="logo"><img src="images/logo.jpg" /></div>
+        <div class="navbar">
+            <ul class="clearfix">
+
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="Products.html">Products</a></li>
+                <li><a href="Calendar.html">Calendar</a></li>
+                <li class="current"><a href="#">Cart</a></li>
+                <li><a href="login.html">Log in</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="childNav">
+        <div class="wrap">
+            <ul class="clearfix"></ul>
+        </div>
+    </div>
+    <div id="position" class="wrap">
+        Location：<a href="homepage.html">homepage</a> &gt; Cart
+    </div>
+    <div class="wrap">
+        <div id="shopping">
+            <form action="checkResult.html">
+                <table>
+                    <tr>
+                        <th>Item Name</th>
+                        <th>Price</th>
+                        <th>Amount</th>
+                        <th>Action</th>
+                    </tr>
+                    <tr id="product_id_0">
+                        <td class="thumb"><img src="images/product/0.jpg" /><a href="product-view.html">Audio-Technica ATH-EQ300M-SV Sliver Headphone</a></td>
+                        <td class="price" id="price_id_0">
+                            <span>$15.00</span>
+                            <input type="hidden" value="15" />
+                        </td>
+                        <td class="number">
+                            <span name="del">-</span>
+                            <input id="number_id_0" type="text" name="number" value="1" />
+                            <span name="add">+</span>
+                        </td>
+                        <td class="delete"><a href="javascript:void(0)">Delete</a></td>
+                    </tr>
+                <!--    <tr id="product_id_1">
+                        <td class="thumb"><img src="images/product/0.jpg" /><a href="product-view.html">Audio-Technica ATH-EQ300M-SV Sliver Headphone</a></td>
+                        <td class="price" id="price_id_1">
+                            <span>$15.00</span>
+                            <input type="hidden" value="15" />
+                        </td>
+                        <td class="number">
+                            <span name="del">-</span>
+                            <input id="number_id_1" type="text" name="number" value="1" />
+                            <span name="add">+</span>
+                        </td>
+                        <td class="delete"><a href="javascript:void(0)">Delete</a></td>
+                    </tr> -->
+                </table>
+                <div class="total"><span id="total">Total：$0</span></div>
+                <div class="button"><input type="submit" value="" /></div>
+            </form>
+        </div>
+        <script type="text/javascript">
+
+        </script>
+    </div>
+    <div id="footer">
+
+    </div>
+</body>
+</html>

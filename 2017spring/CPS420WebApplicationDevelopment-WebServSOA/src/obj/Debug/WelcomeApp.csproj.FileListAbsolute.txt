@@ -1,0 +1,6 @@
+E:\SVN\tmp\WelcomeApp\bin\WelcomeApp.dll
+E:\SVN\tmp\WelcomeApp\bin\WelcomeApp.pdb
+E:\SVN\tmp\WelcomeApp\obj\Debug\WelcomeApp.dll
+E:\SVN\tmp\WelcomeApp\obj\Debug\WelcomeApp.pdb
+E:\SVN\tmp\WelcomeApp\bin\WelcomeApp.dll.config
+E:\SVN\tmp\WelcomeApp\obj\Debug\WelcomeApp.csprojResolveAssemblyReference.cache

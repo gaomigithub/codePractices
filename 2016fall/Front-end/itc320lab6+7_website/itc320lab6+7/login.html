@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Products</title>
+    <link type="text/css" rel="stylesheet" href="css/mystyles.css" />
+    <script src="modernizr.custom.65897.js"></script>
+</head>
+<body>
+    <article>
+        <div id="header" class="wrap">
+            <div id="logo"><img src="images/logo.jpg" /></div>
+
+            <div class="navbar">
+                <ul class="clearfix">
+                    <li><a href="homepage.html">Home</a></li>
+                    <li><a href="Products.html">Products</a></li>
+                    <li><a href="Calendar.html">Calendar</a></li>
+                    <li><a href="Cart.html">Cart</a></li>
+                    <li class="current"><a href="#">Log in</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id="childNav">
+            <div class="wrap">
+                <ul class="clearfix"></ul>
+            </div>
+        </div>
+
+        <div id="position" class="wrap">
+            Location：<a href="homepage.html">homepage</a> &gt; Cart
+        </div>
+
+        <h2>Welcome to shopping</h2>
+        <div id="errorMessage"></div>
+        <form action="homepage.html">
+            
+            <fieldset id="logininfo">
+                <legend>Information</legend>
+                <label for="nameinput">Account</label>
+                <input type="text" id="accinput" name="acc" required="required" />
+                <label for="addrinput">Password</label>
+                <input type="text" id="passwordinput" name="password" required="required" />
+
+
+
+                <fieldset id="loginType">
+                    <legend>Type</legend>
+                    <input type="radio" name="type" id="vip" value="VIP" />
+                    <label for="thin">VIP</label>
+                    <input type="radio" name="type" id="normal" value="NORMAIL" />
+                    <label for="thick">Normal</label>
+                </fieldset>
+
+                <fieldset id="cookiesBox">
+                    <input type="checkbox" id="saveInfo" name="cookies" value="SaveInfo" />
+                    <label for="pepperoni">Save the information</label>
+                </fieldset>
+
+            </fieldset>
+
+
+            <fieldset id="submitbutton">
+
+                <input type="submit" id="submitBtn" value="Log in" />
+            </fieldset>
+        </form>
+        <div id="footer">
+
+        </div>
+        <script src="script.js"></script>
+
+    </article>
+
+</body>
+</html>

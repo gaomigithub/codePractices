@@ -1,0 +1,6 @@
+E:\SVN\tmp\WelcomeApp\src\obj\Debug\PizzaApp.csprojResolveAssemblyReference.cache
+E:\SVN\tmp\WelcomeApp\src\bin\PizzaApp.dll.config
+E:\SVN\tmp\WelcomeApp\src\bin\PizzaApp.dll
+E:\SVN\tmp\WelcomeApp\src\bin\PizzaApp.pdb
+E:\SVN\tmp\WelcomeApp\src\obj\Debug\PizzaApp.dll
+E:\SVN\tmp\WelcomeApp\src\obj\Debug\PizzaApp.pdb
