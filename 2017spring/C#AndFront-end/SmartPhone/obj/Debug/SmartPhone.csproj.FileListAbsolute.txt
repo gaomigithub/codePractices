@@ -1,0 +1,27 @@
+c:\users\grigo1d\documents\visual studio 2013\Projects\SmartPhone\bin\Debug\SmartPhone.exe.config
+c:\users\grigo1d\documents\visual studio 2013\Projects\SmartPhone\bin\Debug\SmartPhone.exe
+c:\users\grigo1d\documents\visual studio 2013\Projects\SmartPhone\bin\Debug\SmartPhone.pdb
+c:\users\grigo1d\documents\visual studio 2013\Projects\SmartPhone\obj\Debug\SmartPhone.csprojResolveAssemblyReference.cache
+c:\users\grigo1d\documents\visual studio 2013\Projects\SmartPhone\obj\Debug\SmartPhone.Form1.resources
+c:\users\grigo1d\documents\visual studio 2013\Projects\SmartPhone\obj\Debug\SmartPhone.Properties.Resources.resources
+c:\users\grigo1d\documents\visual studio 2013\Projects\SmartPhone\obj\Debug\SmartPhone.csproj.GenerateResource.Cache
+c:\users\grigo1d\documents\visual studio 2013\Projects\SmartPhone\obj\Debug\SmartPhone.exe
+c:\users\grigo1d\documents\visual studio 2013\Projects\SmartPhone\obj\Debug\SmartPhone.pdb
+C:\CPS280Projects\SmartPhone\SmartPhone\bin\Debug\SmartPhone.exe.config
+C:\CPS280Projects\SmartPhone\SmartPhone\obj\Debug\SmartPhone.exe
+C:\CPS280Projects\SmartPhone\SmartPhone\obj\Debug\SmartPhone.pdb
+C:\CPS280Projects\SmartPhone\SmartPhone\bin\Debug\SmartPhone.exe
+C:\CPS280Projects\SmartPhone\SmartPhone\bin\Debug\SmartPhone.pdb
+C:\CPS280Projects\SmartPhone\SmartPhone\obj\Debug\SmartPhone.csprojResolveAssemblyReference.cache
+C:\CPS280Projects\SmartPhone\SmartPhone\obj\Debug\SmartPhone.Properties.Resources.resources
+C:\CPS280Projects\SmartPhone\SmartPhone\obj\Debug\SmartPhone.csproj.GenerateResource.Cache
+C:\CPS280Projects\SmartPhone\SmartPhone\obj\Debug\SmartPhone.frmSmartPhone.resources
+C:\Users\DELL\Downloads\SmartPhone\bin\Debug\SmartPhone.exe.config
+C:\Users\DELL\Downloads\SmartPhone\bin\Debug\SmartPhone.exe
+C:\Users\DELL\Downloads\SmartPhone\bin\Debug\SmartPhone.pdb
+C:\Users\DELL\Downloads\SmartPhone\obj\Debug\SmartPhone.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\SmartPhone\obj\Debug\SmartPhone.frmSmartPhone.resources
+C:\Users\DELL\Downloads\SmartPhone\obj\Debug\SmartPhone.Properties.Resources.resources
+C:\Users\DELL\Downloads\SmartPhone\obj\Debug\SmartPhone.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\SmartPhone\obj\Debug\SmartPhone.exe
+C:\Users\DELL\Downloads\SmartPhone\obj\Debug\SmartPhone.pdb
