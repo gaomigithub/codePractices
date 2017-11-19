@@ -1,0 +1,12 @@
+c:\cps280projects\ClassesAndStructsConsoleApp\bin\Debug\ClassesAndStructsConsoleApp.exe.config
+c:\cps280projects\ClassesAndStructsConsoleApp\bin\Debug\ClassesAndStructsConsoleApp.exe
+c:\cps280projects\ClassesAndStructsConsoleApp\bin\Debug\ClassesAndStructsConsoleApp.pdb
+c:\cps280projects\ClassesAndStructsConsoleApp\obj\Debug\ClassesAndStructsConsoleApp.exe
+c:\cps280projects\ClassesAndStructsConsoleApp\obj\Debug\ClassesAndStructsConsoleApp.pdb
+c:\CPS280Projects\ClassesAndStructsConsoleApp\obj\Debug\ClassesAndStructsConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\ClassesAndStructsConsoleApp\bin\Debug\ClassesAndStructsConsoleApp.exe.config
+C:\Users\DELL\Downloads\ClassesAndStructsConsoleApp\obj\Debug\ClassesAndStructsConsoleApp.exe
+C:\Users\DELL\Downloads\ClassesAndStructsConsoleApp\obj\Debug\ClassesAndStructsConsoleApp.pdb
+C:\Users\DELL\Downloads\ClassesAndStructsConsoleApp\bin\Debug\ClassesAndStructsConsoleApp.exe
+C:\Users\DELL\Downloads\ClassesAndStructsConsoleApp\bin\Debug\ClassesAndStructsConsoleApp.pdb
+C:\Users\DELL\Downloads\ClassesAndStructsConsoleApp\obj\Debug\ClassesAndStructsConsoleApp.csprojResolveAssemblyReference.cache
