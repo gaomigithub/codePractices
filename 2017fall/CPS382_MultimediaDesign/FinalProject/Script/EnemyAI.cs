@@ -1,4 +1,6 @@
-﻿using System.Collections;
+// This code as the sample shows my skill on C# script knowledge and a kind of self-learning ability
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEngine;
